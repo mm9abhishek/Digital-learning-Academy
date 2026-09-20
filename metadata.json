@@ -1,0 +1,6 @@
+{
+  "name": "SkillSprint AI",
+  "description": "AI-powered digital marketing learning sandbox with SEO keyword planning, expected traffic forecasting, Google Ads & Search Console live practice accounts, and campaign simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
